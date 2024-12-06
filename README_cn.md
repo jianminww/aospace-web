@@ -26,7 +26,7 @@
 
 ![Alt text](image.png)
 
-space-web 使用 javascript 开发，用到了 vue3，element-plus，axios，jsencrypt，service-worker 等技术。业务层包含登录、快速登录、我的、主页等页面，同时用到了 web 本地化技术，保证用户操作文件的流畅性
+space-web 使用 javascript 开发，用到了 vue3，element-plus，axios，jsencrypt，service-worker 等技术。业务层包含登录、快速登录、我的、主页等页面，同时用到了 Web 本地化技术，保证用户操作文件的流畅性
 
 ### 开发说明
 

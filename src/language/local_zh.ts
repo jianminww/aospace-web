@@ -20,7 +20,7 @@ export default {
 		me_recycle_bin: "回收站",
 		my_setting: "我的",
 		device: "设备",
-		ao_space: "傲空间",
+		ao_space: "AO.space",
 	},
 	buttons: {
 		common_save: "保存",
@@ -61,7 +61,7 @@ export default {
 		nodata: "暂无消息",
 
 		logout_desc: "您的登录已失效，若需再次登录，请进行扫码授权",
-		member_delete_desc: "您的傲空间已被注销，将无法继续使用，请联系管理员。",
+		member_delete_desc: "您的空间已被注销，将无法继续使用，请联系管理员。",
 		restore_success_desc:
 			"您的空间数据已完成恢复操作，如有疑问，请联系管理员。",
 		member_self_delete: "空间注销",
@@ -70,7 +70,7 @@ export default {
 
 		uninstall: "卸载通知",
 		uninstall_desc:
-			"管理员已卸载傲空间应用【{appName}】，您将无法继续使用，如有疑问，请联系管理员",
+			"管理员已卸载 AO.space 应用【{appName}】，您将无法继续使用，如有疑问，请联系管理员",
 		memories_desc: "小傲帮您整理了一些过往回忆，去重温下吧~",
 
 		many_files: "{name} 等{count}个文件",
@@ -261,18 +261,18 @@ export default {
 	},
 	login: {
 		other_login: "其他登录方式",
-		version: "最新版傲空间 App - 首页 - 扫一扫",
+		version: "最新版 AO.space App - 首页 - 扫一扫",
 		scan_code: "扫码登录",
 		please_use_phone: "请使用手机上的 {app} 扫码登录",
 		use_scan: "请使用 {app} 扫码登录",
-		web_needs: "网页版傲空间需要配合手机使用",
+		web_needs: "网页版 AO.space 需要配合手机使用",
 		privacy: "隐私政策",
 		user: "用户协议",
 		code: "请输入授权码",
 		copyright: "Copyright © 2022-2023 中科南京软件技术研究院",
-		enter: "进入傲空间",
-		more: "登录更多傲空间",
-		auto: "的傲空间",
+		enter: "进入 AO.space",
+		more: "登录更多 AO.space",
+		auto: "的 AO.space",
 		cancel: "取消登录",
 		confirm: "请在绑定手机上确定登录",
 		codeError: "授权码错误，请重新输入",

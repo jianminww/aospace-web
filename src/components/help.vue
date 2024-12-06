@@ -33,7 +33,7 @@
         <div class="flex-x-center code">
           <div class="flex-column flex-xy-center mid-img">
             <img class='img' src="@/assets/pic_1@2x.png" />
-            <div class="gray-12 mt-14 mb-20">傲空间 App 首页 - 扫一扫 - 登录授权码</div>
+            <div class="gray-12 mt-14 mb-20">AO.space App 首页 - 扫一扫 - 登录授权码</div>
           </div>
           <div class="flex-column flex-xy-center">
             <img class='img' src="@/assets/pic_2@2x.png" />
